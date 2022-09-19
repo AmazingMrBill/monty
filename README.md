@@ -27,7 +27,7 @@ $ sudo apt-get install git
 Clone the repository into a new directory:
 
 ```
-$ git clone https://github.com/debugulize/monty.git
+$ git clone https://github.com/AmazingMrBill/monty.git
 ```
 Compile with the following:
 
